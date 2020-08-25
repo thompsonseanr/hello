@@ -9,4 +9,4 @@ hello.o: hello.c
 .PHONY: clean
 
 clean:
-	rm -rf hello hello.o
+	rm -f hello hello.o
