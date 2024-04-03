@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(int argc, char *argv[]) {
-  puts("HHHello, world!!!! Testing the automated repo build. Again. And again.");
+  puts("HHHHello, world!!!! Testing the automated repo build. Again. And again.");
   return EXIT_SUCCESS;
 }
